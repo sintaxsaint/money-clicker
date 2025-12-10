@@ -1,2 +1,2 @@
 # er989er-github-io
-runs on: https://ghostrrr-r.github.io/money-clicker/
+runs on: https://sintaxsaint.github.io/money-clicker/
